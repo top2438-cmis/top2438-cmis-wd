@@ -1,0 +1,11 @@
+green: addresssssssss
+$: what to do
+~:home
+ls: view content of ghe folder
+Git status: to view the status of the files.
+Git add: to add to file of respository.
+Git commit: commit all changes
+Git push: push all changes
+
+
+
