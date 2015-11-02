@@ -1,0 +1,10 @@
+1. Open the program called "Terminal"
+2. Clone it by copy this link and paste it by hold "shift" and hit "insert" "git clone --config="http.proxy=http://<your respirsitory name>:<your password>@192.168.2.1:8080" https://github.com/<your respiritory name>-cmis/<your respiritory name>-cmis-wd" , then hit enter
+3. Type "gedit <your file name>", then hit enter
+4. The file will appear
+5. Type any information that you want
+6. save it and close
+7. Type "git add <your file name>" , then enter
+8. Type "git commit -m" and '"Commit message"' in that commit message you type the instruction about making a new file , then enter
+9. Type "Git push:, then enter
+10. There will be the section coming up that wants you to put your respiritory name and password. , then enter
