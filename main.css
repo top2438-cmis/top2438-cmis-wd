@@ -1,29 +1,43 @@
 h1{
-	color:blue;
+	color:brown;
 	font-family:"Courier New" Courier, monospace;
-	background-color:#00FF00;
+	background-color:#FF6699;
+	margin: auto;
+
+
  
 }
 header{
-	color:red;
+	color:white;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	background-color:#33CC66;
+	background-color:#000000;
 	font-size:40px;
-	width: 600px;
-    height: 85px;
-    border: 20px solid yellow;
-	border-color:red green blue yellow; 
+	width: 360px;
+        height: 75px;
+        border: 20px solid yellow;
+	border-color:#FFCCFF #FFCCFF #FFCCFF #FFCCFF;
+	margin: auto; 
+
 
  	
 }
 main{
-	color:black;
+	color: pink;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	background-color:#33CC66;
-	width: 600px;
+	background-color:#FFFFCC;
+	width: 700px;
     height: 85px;
-    border: 20px solid yellow;
-	border-color:red green blue grey; 
+    border: 10px solid;
+	border-color:#99FFCC #FF9999 #99FFCC #FF9999 ;
+	margin: auto; 
+
+}
+body{
+	background-image: url(http://p1.pichost.me/i/53/1768884.jpg);
+	margin: auto;
+}
+
+
 
 
 	
