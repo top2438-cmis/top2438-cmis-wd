@@ -2,42 +2,40 @@ h1{
 	color:brown;
 	font-family:"Courier New" Courier, monospace;
 	background-color:#FF6699;
-	margin: auto;
+	font-size:40px;
+	border: 10px solid pink;
+	border-color:#FFCCFF #FFCCFF #FFCCFF #FFCCFF; 
+	
 
 
  
 }
 header{
-	color:white;
-	font-family:"Comic Sans MS", cursive, sans-serif;
-	background-color:#000000;
-	font-size:40px;
-	width: 360px;
-        height: 75px;
-        border: 20px solid yellow;
-	border-color:#FFCCFF #FFCCFF #FFCCFF #FFCCFF;
-	margin: auto; 
+	color:#99FFFF;
+	font-family:"Courier New", Courier, monospace;
+	background-color:#FF9999;
+	font-size:50px;
+	border:10px solid yellow;
+	border-color:#580000 #33CCCC; 
+	 
 
 
  	
 }
 main{
-	color: pink;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	background-color:#FFFFCC;
-	width: 700px;
-    height: 85px;
-    border: 10px solid;
-	border-color:#99FFCC #FF9999 #99FFCC #FF9999 ;
-	margin: auto; 
+	background-color:purple;
+	font-size:17px;
+	border: 5px;
+	border-style:dashed;
+	border-color:pink;
+	 
 
 }
 body{
 	background-image: url(http://p1.pichost.me/i/53/1768884.jpg);
-	margin: auto;
+	
 }
-
-
 
 
 	
