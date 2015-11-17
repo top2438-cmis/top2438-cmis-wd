@@ -1,0 +1,74 @@
+h1 {
+	font-family:Impact, fantasy; 
+	font-size: 45px;  
+	font-weight: normal;
+	font-style: italic;
+	color:yellow;
+	border-style:hidden; 
+	background-color:green;
+	margin-bottom: 00px;
+}
+h2 {
+	font-family:Impact, fantasy; 
+	font-size: 15px;  
+	font-weight: normal;
+	color:blue;
+	border-style:dashed; 
+	background-color:red;
+	border-bottom: 10px dashed yellow;
+	border-top: dashed yellow;
+	border-right-style: hidden;
+  	border-left-style: hidden;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+h4 {
+	font-family:Arial, sans-serif;
+	font-size: 25px;  
+	font-weight: normal;
+	font-weight:bold;
+	color:yellow;
+	border-style:hidden; 
+	background-color:purple;
+	margin-bottom: 10px;
+	margin-top:0px
+}
+h3 {
+	font-family:Arial, sans-serif;
+	font-size:  19px;  
+	font-weight:bold;
+	color:purple;
+	border-bottom:hidden;
+	border-top: 5px dashed purple;
+	border-right-style: hidden;
+  	border-left-style: hidden;
+	background-color:yellow;
+	margin-bottom: 10px;
+	margin-top:0px;
+}
+p {
+	font-family:Arial, sans-serif;
+	font-size:  13px;  
+	font-weight: normal;
+	color:blue;
+	margin-bottom: 10px;
+	margin-top:0px;
+}
+footer {
+	color:blue;
+	border-bottom:hidden;
+	border-top: 3px dotted black;
+	border-right: 5px solid red;
+  	border-left: 5px solid blue; 
+	
+}
+main { 
+	border-bottom:hidden;
+	border-top:hidden;
+	border-left-style:groove;
+	border-right-style:groove;
+	border-left-color:orange;
+	border-right-color:orange;
+	border-collapse:collapse;
+	border-width:10px;
+}
