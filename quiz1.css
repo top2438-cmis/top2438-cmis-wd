@@ -5,7 +5,7 @@ h1 {
 	font-style: italic;
 	color:yellow;
 	border-style:hidden; 
-	background-color:green;
+	background-color:purple;
 	margin-bottom: 00px;
 }
 h2 {
@@ -13,53 +13,57 @@ h2 {
 	font-size: 15px;  
 	font-weight: normal;
 	color:blue;
-	border-style:dashed; 
+	
 	background-color:red;
 	border-bottom: 10px dashed yellow;
-	border-top: dashed yellow;
 	border-right-style: hidden;
   	border-left-style: hidden;
-	margin-top:0px;
-	margin-bottom:10px;
+	margin-top:00px;
+	margin-bottom: 20px;
 }
 h4 {
-	font-family:Arial, sans-serif;
+	font-family:Time New Roman Georgia, serif;
 	font-size: 25px;  
 	font-weight: normal;
 	font-weight:bold;
-	color:yellow;
+	color:purple;
 	border-style:hidden; 
-	background-color:purple;
-	margin-bottom: 10px;
-	margin-top:0px
+	background-color:yellow;
+	margin-bottom: 20px;
+	margin-top:10px
+	border-bottom: hidden;
+border-top: 2px dashed purple;
+	
 }
 h3 {
-	font-family:Arial, sans-serif;
-	font-size:  19px;  
+	font-family:Time New Roman Georgia, serif;
+	font-size:  15px;  
 	font-weight:bold;
-	color:purple;
-	border-bottom:hidden;
-	border-top: 5px dashed purple;
+	color:yellow;
+	border-bottom:2px dashed yellow;
+	border-top: hidden;
 	border-right-style: hidden;
   	border-left-style: hidden;
-	background-color:yellow;
-	margin-bottom: 10px;
-	margin-top:0px;
+	background-color:green;
+	margin-bottom: 20px;
+	margin-top:10px;
 }
 p {
-	font-family:Arial, sans-serif;
-	font-size:  13px;  
+	font-family:Time New Roman Georgia, serif;
+	font-size:  11px;  
 	font-weight: normal;
 	color:blue;
-	margin-bottom: 10px;
-	margin-top:0px;
+	margin-bottom: 20px;
+	margin-top:10px;
 }
 footer {
 	color:blue;
 	border-bottom:hidden;
-	border-top: 3px dotted black;
-	border-right: 5px solid red;
-  	border-left: 5px solid blue; 
+	border-top: 3px dotted grey;
+	border-right: 5px solid orange;
+  	border-left: 5px solid orange; 
+border-left-style:groove;
+border-right-style:groove;
 	
 }
 main { 
@@ -67,8 +71,8 @@ main {
 	border-top:hidden;
 	border-left-style:groove;
 	border-right-style:groove;
-	border-left-color:orange;
-	border-right-color:orange;
+	border-left-color:red;
+	border-right-color:blue;
 	border-collapse:collapse;
 	border-width:10px;
 }
