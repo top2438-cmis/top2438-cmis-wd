@@ -10,5 +10,10 @@ rm: remove
 !ls: checking folder
 ls*: check all the files in repository
 
+View thingy cmis-hsteacher/~top2438/thing.html/other.html
+ctrl U= view source code thingy
+
+mkdir= make a folder listsandlinks
+
 
 
