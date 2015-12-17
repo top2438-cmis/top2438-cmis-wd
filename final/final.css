@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body{
+
+}
+
+h1{
+	text-align: center;
+	border-style: inset;
+	font-family: 'Oswald', sans-serif;
+}
+
+nav{
+	float: left;
+	background-color: none;
+	width: 150px;
+}
+
+footer{
+	clear: both;
+}
+
+article{
+	outline: #FFE4AA outset 1px;
+	margin-left: 151px;
+	font-size: 80%;
+}
+
+p{
+	outline: #FFE4AA outset 1px;
+	clear: both;
+	font-family: 'Montserrat', sans-serif;
+}
+
+img{
+	outline: #FFE4AA outset 1px;
+	float: both;
+}
+
+h2 > ul{
+	font-size: 80%;
+	color: #D49C6A;
+}
+
+h2{
+	color: #D4B26A;
+}
+
+main > h2{
+	height: 68px;
+	outline: #FFE4AA outset 1px;
+}
+
+h2 > p{
+	float: left;
+}
+
+p > img{
+	float: right;
+}
+
